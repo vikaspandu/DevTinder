@@ -23,3 +23,7 @@ const validateUpdateProfileData = (req) => {
 module.exports = {
   validateSignUpData,
   validateUpdateProfileData};
+
+
+
+  //vPuwvOnhJOM86kPC
